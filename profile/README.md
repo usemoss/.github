@@ -1,50 +1,59 @@
-# Hi there 👋 Welcome to Moss
-We’re building **Real-time Semantic Search for Conversational AI**.
+👋 Welcome to Moss
+
+We build real-time semantic search infrastructure for conversational and agentic AI.
 
 ---
 
-## 🛠 Why We’re Here
-Modern apps are becoming more **interactive and intelligent**.  
-Agents, copilots, and voice-first interfaces all need the same thing:  
-➡️ **instant search, retrieval, and personalization**.  
+### Why Moss
 
-But today’s infrastructure is too slow, too cloud-heavy, and too complex.  
-So we set out to fix that.  
+AI interfaces are changing.
+Voice agents, copilots, and multimodal apps all share the same hard requirement:
 
----
+**retrieval must happen at the speed of thought.**
 
-## 🚀 What We’re Building
-- A runtime that runs anywhere — browser, edge, or cloud
-- APIs that feel simple, like using a database
-- Real-time performance by default (sub-10ms retrieval)
+But today’s search stacks are:
+- too slow for real-time interaction
+- overly cloud-dependent
+- painful to integrate and scale
 
-Think **developer-first infra**: easy to adopt, hard to outgrow.  
+Moss exists to fix that.
 
 ---
 
-## 🌱 Where We’re Headed
-Right now we’re focused on:
-- Voice AI agents that need low-latency search
-- Multimodal agents that blend text, voice, and context
-- Building the foundation for **real-time AI-native apps**
+### What We’re Building
+
+Moss is a **real-time search runtime** designed for AI-native applications:
+
+- ⚡ **Sub-10ms semantic + hybrid retrieval**
+- 🌍 **Runs anywhere** — browser, edge, on-device, or cloud
+- 🧠 **Built for agents** — memory, personalization, context
+- 🧩 **Simple APIs** that feel like using a database
+- 🚀 **Developer-first**: easy to start, hard to outgrow
+
+Think of Moss as the search layer modern AI apps should have had from day one.
 
 ---
 
-## 👋 Closing Note
-We’re still early, but moving fast.  
-If you’re a developer building in this space, we hope our work will make your life easier — and your apps faster.  
+### What It’s Used For
 
-Stay tuned. ⚡️
+Teams use Moss to power:
 
+- Voice AI agents that can’t afford latency
+- Conversational copilots with long-term memory
+- Multimodal systems blending text, voice, and context
+- Real-time personalization for AI-driven products
 
+If retrieval is on your critical path, Moss is built for you.
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+### Where We’re Going
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We’re building the foundation for **real-time AI-native applications** —
+infrastructure that matches how users actually interact with AI.
+
+We’re early, but already working closely with teams pushing this space forward.
+
+---
+
+If you’re building fast, interactive AI systems — welcome.
