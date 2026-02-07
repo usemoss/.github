@@ -1,7 +1,5 @@
-# Hi there 👋 Welcome to InferEdge
-
-We’re building **Supabase for AI Agents and Voice AI**.  
-Our mission is to make **AI search, retrieval, and personalization** super fast so developers can build **real-time experiences** without worrying about the infra behind it.
+# Hi there 👋 Welcome to Moss
+We’re building **Real-time Semantic Search for Conversational AI**.
 
 ---
 
