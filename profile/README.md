@@ -1,4 +1,4 @@
-👋 Welcome to Moss
+# 👋 Welcome to Moss
 
 We build real-time semantic search infrastructure for conversational and agentic AI.
 
