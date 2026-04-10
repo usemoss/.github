@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Main.png" width="400" alt="Moss Logo" />
+<img src="moss-logo.png" width="200" alt="Moss Logo" />
 
 <br />
 
