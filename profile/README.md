@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="moss-logo.png" width="200" alt="Moss Logo" />
+<img width="200" height="200" alt="logo_square" src="https://github.com/user-attachments/assets/39b39731-2308-426c-8807-3b396339f39a" />
+
 
 <br />
 
